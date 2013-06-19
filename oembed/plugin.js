@@ -2,6 +2,7 @@
 * oEmbed Plugin plugin
 * Copyright (c) Ingo Herbote
 * Licensed under the MIT license
+* The included Oxygen icon is part of KDE SC and is licensed under LGPL.
 * jQuery Embed Plugin: http://code.google.com/p/jquery-oembed/ (MIT License)
 * Plugin for: http://ckeditor.com/license (GPL/LGPL/MPL: http://ckeditor.com/license)
 */
