@@ -102,7 +102,7 @@
             editor.ui.addButton('oembed', {
                 label: editor.lang.oembed.button,
                 command: 'oembed',
-                icon: this.path + 'images/icon.png'
+                icon: this.path + 'images/' + ( CKEDITOR.env.hidpi ? 'hidpi/' : '' ) + 'icon.png'
             });
 
             var resizeTypeChanged = function () {
